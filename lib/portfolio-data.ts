@@ -180,7 +180,7 @@ export const portfolioData = {
       description:
         "Pakistan's first all-natural personal care brand e-commerce platform. Built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS. Features handcrafted organic product showcases, brand storytelling, pure ingredient highlighting, and responsive shopping interface.",
       tech: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'MongoDB'],
-      liveUrl: 'https://naturabliss.pk/',
+      liveUrl: 'https://naturabliss.vercel.app/',
     },
     {
       title: 'United Mercy – Global Collaboration Platform',
@@ -198,7 +198,7 @@ export const portfolioData = {
       description:
         'Corporate fresh produce export platform for Rishad Mateen & Company (Est. 1986). Built with HTML5, Tailwind CSS, and JavaScript. Features interactive impact data metrics (98k+ acres, 67k+ farms, 40+ countries), HWT mango processing plant showcase with quarantine approvals (UK, USA, Iran, Australia), founder vision story, product catalog, and comprehensive quote request system.',
       tech: ['HTML5', 'Tailwind CSS', 'JavaScript'],
-      liveUrl: 'https://rishadmateen.com/',
+      liveUrl: 'https://r-m-c.vercel.app/',
     },
   ],
 }
