@@ -128,6 +128,7 @@ export const portfolioData = {
       liveUrl: 'https://legacy-furniture.co.uk',
       adminUrl: 'https://admin-legacy-furniture.vercel.app',
     },
+
     {
       title: 'WebMavine – Corporate Website',
       category: 'fullstack',
@@ -136,6 +137,15 @@ export const portfolioData = {
         'Modern, high-performance corporate website using React.js, Tailwind CSS, and Framer Motion. Built interactive sections including case studies, testimonials, FAQs, animated statistics, and CTAs.',
       tech: ['React.js', 'Tailwind CSS', 'Framer Motion', 'Node.js', 'Express.js', 'MongoDB'],
       liveUrl: 'https://webmavien.com/',
+    },
+    {
+      title: 'EstimateHub – Construction Estimating Services',
+      category: 'fullstack',
+      image: '/estimatehub.png',
+      description:
+        'Full-service construction estimating web platform delivering bid-ready quantity takeoffs and CSI MasterFormat cost estimates for general contractors, subcontractors, developers, and owners. Built with React.js, Tailwind CSS, Framer Motion, and EmailJS. Features transparent pricing packages, trade category showcases (MEP, Concrete, Structural, Civil), auditable takeoff workflow, and an interactive quote request system with file upload and cloud storage link integration.',
+      tech: ['React.js', 'Tailwind CSS', 'Framer Motion', 'Node.js', 'Express.js', 'EmailJs'],
+      liveUrl: 'https://estimatehub.org/',
     },
     {
       title: 'Pureclay Olive Oil E-commerce',
