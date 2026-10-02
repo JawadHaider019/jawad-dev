@@ -190,7 +190,7 @@ export const portfolioData = {
       description:
         "Pakistan's first all-natural personal care brand e-commerce platform. Built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS. Features handcrafted organic product showcases, brand storytelling, pure ingredient highlighting, and responsive shopping interface.",
       tech: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'MongoDB'],
-      liveUrl: 'https://naturabliss.vercel.app/',
+      liveUrl: 'https://naturabliss.pk/',
     },
     {
       title: 'United Mercy – Global Collaboration Platform',
